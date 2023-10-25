@@ -17,8 +17,9 @@ document.querySelector("paragraph1")
 // if and else statement (the condition)
 let picture = 3;
 
+couldn't figure out
 if (picture >=6) {
   console.log("3");
 } else {
   console.log("3")
-}
+}; .innerHTML =
